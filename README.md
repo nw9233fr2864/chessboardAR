@@ -2,7 +2,7 @@ Python의 cv2를 사용하여 카메라의 행렬과 카메라의 렌즈 왜곡�
 fix distortion on image through camera's matrix and camera's lens distortion factor and visualize AR object on chessboard  
 
 
-[about camera pse estimation](https://github.com/nw9233fr2864/camera_calibration)
+[about camera pose estimation](https://github.com/nw9233fr2864/camera_calibration)
 
 기능: 체크보드를 사용하여 카메라의 행렬과 카메라의 렌즈 왜곡계수 획득, 왜곡된 이미지를 보정, AR물체 시각화  
 
